@@ -1,0 +1,97 @@
+@media screen and (max-width: 1200px) {
+  .offer_link {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .offer__title_top {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media screen and (max-width: 765px) {
+  .slider_image {
+    height: 320px !important;
+    width: 180px !important;
+    padding: 4px;
+  }
+
+  .menu__list {
+    flex-direction: column;
+    margin-left: 20px;
+  }
+
+  .offer__link {
+    font-size: 26px;
+    padding: 25px 90px;
+    text-align: center;
+    display: block;
+  }
+
+  .offer__title_top {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .reverse {
+    flex-direction: column-reverse;
+  }
+
+  .price_name {
+    font-size: 20px;
+  }
+
+  .etap_img {
+    height: 90px;
+  }
+
+  .img_text {
+    font-size: 20px;
+  }
+
+  section {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+
+  .legally {
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+
+  .aboutWaterText {
+    margin-bottom: 30px;
+  }
+
+  .feedback {
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+
+  .menu__item_m {
+    display: none;
+  }
+
+  .navigation {
+    padding-top: 25px;
+  }
+
+  .menu__link {
+    display: inline-block;
+    padding: 8px 4px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .offer__title_top {
+    font-size: 28px;
+  }
+
+  .offer__link {
+    font-size: 24px;
+    padding: 25px 80px;
+  }
+}

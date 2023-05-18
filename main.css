@@ -1,37 +1,37 @@
 @font-face {
   font-family: "Roboto-Light"; /* Имя шрифта */
-  src: url(../fonts/Roboto-Light.ttf);
-  src: url(../fonts/Roboto-Light.eot);
-  src: url(../fonts/Roboto-Light.svg);
-  src: url(../fonts/Roboto-Light.woff);
-  src: url(../fonts/Roboto-Light.woff2);
+  src: url(fonts/Roboto-Light.ttf);
+  src: url(fonts/Roboto-Light.eot);
+  src: url(fonts/Roboto-Light.svg);
+  src: url(fonts/Roboto-Light.woff);
+  src: url(fonts/Roboto-Light.woff2);
 }
 
 @font-face {
   font-family: "Roboto-Regular"; /* Имя шрифта */
-  src: url(../fonts/Roboto-Regular.ttf);
-  src: url(../fonts/Roboto-Regular.eot);
-  src: url(../fonts/Roboto-Regular.svg);
-  src: url(../fonts/Roboto-Regular.woff);
-  src: url(../fonts/Roboto-Regular.woff2);
+  src: url(fonts/Roboto-Regular.ttf);
+  src: url(fonts/Roboto-Regular.eot);
+  src: url(fonts/Roboto-Regular.svg);
+  src: url(fonts/Roboto-Regular.woff);
+  src: url(fonts/Roboto-Regular.woff2);
 }
 
 @font-face {
   font-family: "Roboto-Bold"; /* Имя шрифта */
-  src: url(../fonts/Roboto-Bold.ttf);
-  src: url(../fonts/Roboto-Bold.eot);
-  src: url(../fonts/Roboto-Bold.svg);
-  src: url(../fonts/Roboto-Bold.woff);
-  src: url(../fonts/Roboto-Bold.woff2);
+  src: url(fonts/Roboto-Bold.ttf);
+  src: url(fonts/Roboto-Bold.eot);
+  src: url(fonts/Roboto-Bold.svg);
+  src: url(fonts/Roboto-Bold.woff);
+  src: url(fonts/Roboto-Bold.woff2);
 }
 
 @font-face {
   font-family: "Roboto-Black"; /* Имя шрифта */
-  src: url(../fonts/Roboto-Black.ttf);
-  src: url(../fonts/Roboto-Black.eot);
-  src: url(../fonts/Roboto-Black.svg);
-  src: url(../fonts/Roboto-Black.woff);
-  src: url(../fonts/Roboto-Black.woff2);
+  src: url(fonts/Roboto-Black.ttf);
+  src: url(fonts/Roboto-Black.eot);
+  src: url(fonts/Roboto-Black.svg);
+  src: url(fonts/Roboto-Black.woff);
+  src: url(fonts/Roboto-Black.woff2);
 }
 
 body,
@@ -150,7 +150,7 @@ button:focus {
 	Header
 */
 header {
-  background: url(../img/bg1.png) no-repeat top left / cover;
+  background: url(img/bg1.png) no-repeat top left / cover;
 
   padding-bottom: 120px;
 }
